@@ -1,4 +1,3 @@
-## Hi there 👋
 
 <table style="border-collapse: collapse; border: none;" cellpadding="0" cellspacing="0">
   <tr>
